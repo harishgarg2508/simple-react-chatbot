@@ -1,0 +1,9 @@
+.chatbot-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 300px; /* Adjust the width as needed */
+    height: 400px; /* Add a height to ensure it's visible */
+  }
+  
